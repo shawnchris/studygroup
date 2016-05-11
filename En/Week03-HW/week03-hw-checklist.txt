@@ -6,10 +6,13 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 No#24: C++, Accepted;
 https://leetcode.com/problems/swap-nodes-in-pairs/
 
+No#61: C++, Accepted;
 https://leetcode.com/problems/rotate-list/
 
+No#86: C++, Accepted;
 https://leetcode.com/problems/partition-list/
 
+No#92: C++, Accpeted;
 https://leetcode.com/problems/reverse-linked-list-ii/
 
 https://leetcode.com/problems/odd-even-linked-list/
