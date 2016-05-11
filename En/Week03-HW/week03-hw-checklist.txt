@@ -12,9 +12,10 @@ https://leetcode.com/problems/rotate-list/
 No#86: C++, Accepted;
 https://leetcode.com/problems/partition-list/
 
-No#92: C++, Accpeted;
+No#92: C++, Accepted;
 https://leetcode.com/problems/reverse-linked-list-ii/
 
+No#328: C++, Accepted;
 https://leetcode.com/problems/odd-even-linked-list/
 
 https://leetcode.com/problems/intersection-of-two-linked-lists/
