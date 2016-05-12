@@ -21,6 +21,7 @@ https://leetcode.com/problems/odd-even-linked-list/
 No#160: C++, Accepted;
 https://leetcode.com/problems/intersection-of-two-linked-lists/
 
+No#141: C++, Accepted;
 https://leetcode.com/problems/linked-list-cycle/
 
 https://leetcode.com/problems/linked-list-cycle-ii/
