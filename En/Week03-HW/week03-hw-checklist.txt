@@ -24,6 +24,7 @@ https://leetcode.com/problems/intersection-of-two-linked-lists/
 No#141: C++, Accepted;
 https://leetcode.com/problems/linked-list-cycle/
 
+No#142: C++, Accepted;
 https://leetcode.com/problems/linked-list-cycle-ii/
 
 https://leetcode.com/problems/clone-graph/
