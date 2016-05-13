@@ -1,7 +1,9 @@
 Week06-20160507 - Dynamic Programming
 
+No#121: C++, Accepted;
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
+No#122: C++, Accepted;
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
@@ -23,4 +25,3 @@ https://leetcode.com/problems/house-robber-ii/
 https://leetcode.com/problems/house-robber-iii/
 
 https://leetcode.com/problems/maximal-square/
-
