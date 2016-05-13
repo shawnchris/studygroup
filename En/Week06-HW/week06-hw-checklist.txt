@@ -6,6 +6,7 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 No#122: C++, Accepted;
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 
+No#123: C++, Accepted;
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
 
 https://leetcode.com/problems/maximum-subarray/
