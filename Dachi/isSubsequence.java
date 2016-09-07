@@ -11,7 +11,7 @@ public class isSubsequence {
         for(int i = 0; i < s.length(); i++){
             char c = s.charAt(i);
             idx = t.indexOf(c,idx);
-            if (idx > 0) idx++;
+            if (idx >= 0) idx++;
             else return false;
         }
 
